@@ -1,0 +1,54 @@
+ /* .error{
+    color: blueviolet;
+}
+p.error{
+    color: cadetblue;
+}
+.sucess{
+    color: #0d34a1;
+}
+.sucess.proud{
+    border:3px dashed #0d34a1 ;
+} 
+#asha{
+    background-color: dimgray;
+    padding: 25px;
+} */
+/* div.error  {
+    color: forestgreen;
+} */
+/* a[href]{
+    background-color: grey;
+} */
+/* a[href="https://www.google.com"]{
+    background-color: orange;
+    color: black;
+    text-decoration: none;
+    font-weight:bold ;
+    text-transform: uppercase;
+} */
+/* a[href*=yahoo]{
+    color: #82d133;
+    background-color: darkmagenta;
+    border: 2px solid blue;
+} */
+/* a[href$=".com"]{
+    color: #82d133;
+    background-color: darkmagenta;
+    border: 2px solid blue;
+} */
+/*--inheritance part start--*/
+div{
+    color: #bd16a1;
+    border: 2px solid blue;
+    margin: 30px;
+    font-weight: bold;
+}
+p{
+    border: inherit;
+    margin: inherit;
+}
+
+
+    
+    
